@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - write your line code
+* main - Program to write
 * Return: 0 (Success)
 */
 
@@ -13,7 +13,6 @@ int *p;
 
 a[2] = 1024;
 p = &n;
-
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
